@@ -91,7 +91,7 @@ It uses cutting-edge technologies such as Next.js, React, Prisma, Inngest, and T
 
 ---
 
-## 📺 Video Tutorial & Resources
+## 📺 Video Tutorial
 
 Inspired by Code With Antonio:
-[Build and Deploy a SaaS AI Website Builder]([https://www.youtube.com/watch?v=example](https://www.youtube.com/watch?v=xs8mWnbMcmc&ab_channel=CodeWithAntonio))
+[Build and Deploy a SaaS AI Website Builder](https://www.youtube.com/watch?v=xs8mWnbMcmc&ab_channel=CodeWithAntonio)
